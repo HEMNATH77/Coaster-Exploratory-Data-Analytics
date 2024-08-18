@@ -12,7 +12,7 @@
     <h4>Histogram</h4>
     <h4>Line Graph</h4>
     <h4>Scatter Plot</h4></ol>
-    <h3>5. Use of Seaborn </h3>
+    <h3>5. Use of Seaborn </h3></ol>
 
 <h2>Importing the Dataset and Python Libraries</h2>
 <p> Import the Python Libraries Such as Pandas , Numpy , Matplotlib and Seaborn in Jupyter Notebook. Download the Dataset from the Kaggle and Import it as a Data Frame in the Jupyter Notebook</p>
