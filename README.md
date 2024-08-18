@@ -41,7 +41,12 @@
 <p>We utilized the Matplotlib library to create a scatter plot that represents the relationship between height data and speed data. By plotting each data point with height on the x-axis and speed on the y-axis, the scatter plot effectively reveals any correlations, trends, or clusters between these two variables. This visualization allows us to visually assess how speed varies with height, helping to identify any potential patterns, outliers, or relationships that might be present in the dataset, thereby deepening our analysis.</p>
 <img src="https://github.com/user-attachments/assets/972b16bb-869b-4c7f-a52c-d5a9d021d403">
 
+<h3>5.Scatter plot using seaborn </h3>
+<p> In this visualization, we utilized Seaborn to create a scatter plot that represents the latitude and longitude data, with each point colored by the year started. By plotting latitude on the x-axis and longitude on the y-axis, the scatter plot reveals the geographic distribution of the data over time. The color coding based on the year started allows us to observe how locations have changed or spread over different time periods, providing valuable insights into temporal and spatial trends within the dataset. This visualization helps in understanding both the geographic and temporal dimensions of the data simultaneously.</p>
+<img src="https://github.com/user-attachments/assets/853816ee-4582-435d-83a7-0f2bd5b8de85">
 
+<h2>Conclusion</h2>
+<p> The coaster exploratory data analysis provided valuable insights into the key characteristics and trends within the dataset, such as coaster heights, speeds, and geographic locations. Through various visualizations, including histograms, scatter plots, and line graphs, we identified patterns, correlations, and distributions that help us better understand the factors influencing roller coaster design and performance over time. This analysis also highlighted any outliers or anomalies that may warrant further investigation. Overall, the exploratory data analysis serves as a foundation for deeper analysis, guiding decisions related to coaster safety, design improvements, and market trends.</p>
 
 
 
