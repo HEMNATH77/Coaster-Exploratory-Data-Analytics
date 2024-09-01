@@ -18,7 +18,7 @@
 <p> Import the Python Libraries Such as Pandas , Numpy , Matplotlib and Seaborn in Jupyter Notebook. Download the Dataset from the Kaggle and Import it as a Data Frame in the Jupyter Notebook</p>
 <img src="https://github.com/user-attachments/assets/4997799c-2fe8-477f-8544-0ba6a6250a12">  
 <h2>Data Preparation </h2>
-<p> From the importing Dataset , Look out the columns and Data. Take the necessary Data that you want to analyse for visualisation.</p>
+<p> From the imported Dataset , Look out the columns and Data. Take the necessary Data that you want to analyse for visualisation.</p>
 <img src="https://github.com/user-attachments/assets/3349dc62-3062-4506-a59f-bf2e2f7143a1">
 <h2>Data Cleaning</h2>
 <p>In Data Cleaning, Clean the dataset with the duplicate values. These duplicate values can disturb the visualisation process. Renaming the columns with our interest and neglecting the null values in the dataset</p>
